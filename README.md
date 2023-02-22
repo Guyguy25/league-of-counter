@@ -51,6 +51,7 @@ python3 index.py
 ## Tutorial
 
 Enter a league of legends nickname with the right region
+
 ![App Screenshot](src/screenshots/Capture1.PNG)
 
 ## Author
