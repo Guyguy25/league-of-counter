@@ -12,7 +12,7 @@ Find your lol stats easily and quickly
 #### Clone repository
 
 ```bash
-    git clone https://github.com/Guyguy25/league-of-counter
+git clone https://github.com/Guyguy25/league-of-counter
 ```
 
 #### Install all necessary packages
@@ -39,19 +39,19 @@ _This key expires every 24 hours so remember to change it every 24 hours_
 ## Run script
 
 ```bash
-    python index.py
+python index.py
 ```
 
 **or**
 
 ```bash
-    python3 index.py
+python3 index.py
 ```
 
 ## Tutorial
 
 Enter a league of legends nickname with the right region
-![App Screenshot](https://imgur.com/N0JJjm0)
+![App Screenshot](src/screenshots/Capture1.PNG)
 
 ## Author
 
